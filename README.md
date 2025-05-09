@@ -21,3 +21,7 @@ A sleek, modern, and minimal rice for Arch Linux built around the **Hyprland** W
 - `~/.config/cava`
 - `~/.config/alacritty`
 - `~/.config/sxhkd`
+
+## 🖼️ Preview
+
+![Rice Preview](https://github.com/HristoRasheev/I40S-Arch-Linux/raw/main/.config/rice.png)
